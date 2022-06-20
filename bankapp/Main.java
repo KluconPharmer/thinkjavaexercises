@@ -1,8 +1,8 @@
-package bankapp;
+package thinkjavatuts;
 
 import java.util.Scanner;
 
-public class Main {
+public class InchesToFoot {
 
     public static void main(String[] args) {
 
